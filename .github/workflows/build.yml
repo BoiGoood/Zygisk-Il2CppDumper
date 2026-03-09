@@ -1,4 +1,4 @@
-name: Build
+name: Free Fire Module
 on:
   workflow_dispatch:
       inputs:
